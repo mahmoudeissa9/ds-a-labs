@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1765140085 source:c:\dsa labs\ds lab2 1\main.cpp
+	<iostream>
+	"Linked List.h"
+
+1765140056 c:\dsa labs\ds lab2 1\include\linked list.h
+	"Node.h"
+
+1765135435 c:\dsa labs\ds lab2 1\include\node.h
+
+1765135435 source:c:\dsa labs\ds lab2 1\src\linked list.cpp
+
+1765135435 source:c:\dsa labs\ds lab2 1\src\node.cpp
+
+1765140626 source:c:\dsa labs\ds lab2 1\src\node .cpp
+

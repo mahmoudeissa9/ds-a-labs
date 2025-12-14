@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765151563 source:c:\dsa labs\ds lab2 5\src\node.cpp
+
+1765151563 source:c:\dsa labs\ds lab2 5\src\queue.cpp
+
+1765151715 source:c:\dsa labs\ds lab2 5\main.cpp
+	<iostream>
+	"queue.h"
+
+1765151793 c:\dsa labs\ds lab2 5\include\queue.h
+	"Node.h"
+
+1765151563 c:\dsa labs\ds lab2 5\include\node.h
+	<iostream>
+

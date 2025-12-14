@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1765011947 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765011960 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\node.cpp
+
+1765014732 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765014645 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\node.cpp
+
+1765029050 source:c:\users\compumarts\downloads\dsdemo\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765029506 c:\users\compumarts\downloads\dsdemo\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765018125 c:\users\compumarts\downloads\dsdemo\dsdemo\include\node.h
+
+1765018125 source:c:\users\compumarts\downloads\dsdemo\dsdemo\src\linkedlist.cpp
+
+1765018125 source:c:\users\compumarts\downloads\dsdemo\dsdemo\src\node.cpp
+
+1765031206 source:c:\users\compumarts\onedrive - faculty of engineering (tanta university)\desktop\code blocks projects\data structre & algorithims\dsdemo\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765031206 c:\users\compumarts\onedrive - faculty of engineering (tanta university)\desktop\code blocks projects\data structre & algorithims\dsdemo\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765018125 c:\users\compumarts\onedrive - faculty of engineering (tanta university)\desktop\code blocks projects\data structre & algorithims\dsdemo\dsdemo\include\node.h
+
+1765018125 source:c:\users\compumarts\onedrive - faculty of engineering (tanta university)\desktop\code blocks projects\data structre & algorithims\dsdemo\dsdemo\src\linkedlist.cpp
+
+1765018125 source:c:\users\compumarts\onedrive - faculty of engineering (tanta university)\desktop\code blocks projects\data structre & algorithims\dsdemo\dsdemo\src\node.cpp
+
+1765031206 source:c:\code blocks projects\data structre & algorithims\dsdemo\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765031206 c:\code blocks projects\data structre & algorithims\dsdemo\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765018125 c:\code blocks projects\data structre & algorithims\dsdemo\dsdemo\include\node.h
+
+1765018125 source:c:\code blocks projects\data structre & algorithims\dsdemo\dsdemo\src\linkedlist.cpp
+
+1765018125 source:c:\code blocks projects\data structre & algorithims\dsdemo\dsdemo\src\node.cpp
+

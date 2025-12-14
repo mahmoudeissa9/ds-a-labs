@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765150816 source:c:\dsa labs\ds lab2 4\main.cpp
+	<iostream>
+	"stack.h"
+
+1765151139 c:\dsa labs\ds lab2 4\include\stack.h
+	"Node.h"
+
+1765146059 c:\dsa labs\ds lab2 4\include\node.h
+	<iostream>
+
+1765146066 source:c:\dsa labs\ds lab2 4\src\node.cpp
+
+1765146077 source:c:\dsa labs\ds lab2 4\src\stack.cpp
+

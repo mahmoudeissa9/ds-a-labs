@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765140770 source:c:\dsa labs\ds lab2 2\main.cpp
+	<iostream>
+	"queue_shift.h"
+
+1765141419 c:\dsa labs\ds lab2 2\include\queue_shift.h
+	"Node.h"
+
+1765141369 c:\dsa labs\ds lab2 2\include\node.h
+	<iostream>
+
+1765141301 source:c:\dsa labs\ds lab2 2\src\node.cpp
+
+1765141378 source:c:\dsa labs\ds lab2 2\src\queue_shift.cpp
+
