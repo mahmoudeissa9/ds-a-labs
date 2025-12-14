@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765627084 source:c:\dsa labs\day 4\graph\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
